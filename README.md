@@ -1,5 +1,7 @@
 # SV2 → Bitwig Cursor Sync (Space-bar triggered)
 
+English | [中文](README.zh-CN.md)
+
 Press **Space** inside Synthesizer V Studio 2 PRO (running as a Bitwig plugin):
 the script reads the SV playhead position, and Bitwig jumps to the matching
 position and starts playback.
